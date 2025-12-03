@@ -1,2 +1,2 @@
 # Leetcode
-cpp coding
+First Repo
